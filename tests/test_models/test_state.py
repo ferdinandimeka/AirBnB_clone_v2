@@ -39,7 +39,7 @@ class TestState(unittest.TestCase):
         self.assertIsNotNone(State.__doc__)
 
     def test_attributes_State(self):
-        """chekcing if State have attributes"""
+        """checking if State have attributes"""
         self.assertTrue('id' in self.state.__dict__)
         self.assertTrue('created_at' in self.state.__dict__)
         self.assertTrue('updated_at' in self.state.__dict__)
