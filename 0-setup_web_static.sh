@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@ferdinandimeka 
-Dr-MarcusI
-/
-AirBnB_clone_v2
-Public
-Fork your own copy of Dr-MarcusI/AirBnB_clone_v2
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Beta Try the new code view
-AirBnB_clone_v2/0-setup_web_static.sh
-@Denatkins
-Denatkins AirBnB
-Latest commit a7bc9dc on Jan 2
- History
- 1 contributor
-Executable File  38 lines (30 sloc)  880 Bytes
- 
-
 #!/usr/bin/env bash
 # Sets up a web server for deployment of web_static.
 
